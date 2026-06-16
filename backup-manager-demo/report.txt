@@ -1,5 +1,0 @@
-BACKUP MANAGER REPORT
-
-Backup folder: backup_20260616_164516
-Files copied: 3
-Total size: 0 bytes
